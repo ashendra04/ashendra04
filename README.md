@@ -6,7 +6,7 @@ I'm [Ashendra de Silva](https://ashendra.tk/), I'm an experienced full stack web
 
 
 - <div>
-    <img width="250" height="250" align='left' src="https://raw.githubusercontent.com/ashendra04/Website/master/images/logo.png" >
+    <img width="250" height="250" align='left' src="https://raw.githubusercontent.com/ashendra04/ashendra04/master/images/White.jpg" >
     ... as a <strong>Website Developer</strong> at Unknown Engineering Pvt. Ltd.
     <br />
     <strong>View: </strong> <a href="https://unkownus.tk/" >unknownus.tk</a> 
