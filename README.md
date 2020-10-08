@@ -51,17 +51,15 @@ I'm [Ashendra de Silva](https://ashendra.tk/), I'm an experienced full stack web
   
    [![Website Badge](https://img.shields.io/badge/-ashendra.tk-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ashendra.tk/)](https://ashendra.tk/) 
    [![Linkedin Badge](https://img.shields.io/badge/-Ashendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashendra/)](https://www.linkedin.com/in/ashendra/) 
-   [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](mailto:v.anushka786@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-@v_anushkaa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/v_anushkaa/)](https://instagram.com/v_anushkaa) 
-   [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351)
-   [![GeeksforGeeks Badge](https://img.shields.io/badge/-verma_anushka-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/verma_anushka/articles)](https://auth.geeksforgeeks.org/user/verma_anushka/articles)
-
-   <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa)  -->
+   [![Gmail Badge](https://img.shields.io/badge/-silvadeashendra-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silvadeashendra@gmail.com)](mailto:silvadeashendra@gmail.com)
+   [![Instagram Badge](https://img.shields.io/badge/-@chris_ashendra-pink?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/chris_ashendra/)](https://instagram.com/chris_ashendra) 
+   [![Twitter Badge](https://img.shields.io/badge/-AshendraDe-036be4?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/AshendraDe)](https://twitter.com/AshendraDe)
+   [![500px Badge](https://img.shields.io/badge/-Ashendra%20de%20Silva-1c6340?style=flat&logo=500px&logoColor=white&link=https://500px.com/p/silvadeashendra?)](https://500px.com/p/silvadeashendra?)
 
   <p align="center">
     Show ❤️ by starring repositories you find good! 
     <br />
-    ⭐️ From [Anushka Verma](https://github.com/verma-anushka)
+    ⭐️ From [Ashendra de Silva](https://ashendra.tk/)
     <br />
     Also, star and fork this repository if you wish to give this new feature a try!
   </p>
