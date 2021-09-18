@@ -7,7 +7,7 @@ I'm [Ashendra de Silva](https://ashendradesilva.tk/), I'm an experienced full st
 
 - <div>
     <img width="250" height="250" align='left' src="https://raw.githubusercontent.com/ashendra04/ashendra04/main/images/unknowns.png" >
-    ... as a <strong>Founder, Owner, CEO & Head of Website Developing</strong> at Unknowns (Pvt) Ltd.
+    ... as a <strong>Founder, Owner, CEO & Head of Website Designing and Media</strong> at Unknowns (Pvt) Ltd.
     <br />
     <strong>View: </strong> <a href="https://www.unknownus.tk/" >unknownus.tk</a> 
     <br /> 
