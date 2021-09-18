@@ -42,7 +42,7 @@ I'm [Ashendra de Silva](https://ashendradesilva.tk/), I'm an experienced full st
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
-   [![Website Badge](https://img.shields.io/badge/-ashendra.tk-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ashendra.tk/)](https://ashendra.tk/) 
+   [![Website Badge](https://img.shields.io/badge/-ashendradesilva.tk-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ashendradesilva.tk/)](https://ashendradesilva.tk/) 
    [![Linkedin Badge](https://img.shields.io/badge/-Ashendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashendra/)](https://www.linkedin.com/in/ashendra/) 
    [![Gmail Badge](https://img.shields.io/badge/-silvadeashendra-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silvadeashendra@gmail.com)](mailto:silvadeashendra@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-@chris_ashendra-pink?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/chris_ashendra/)](https://instagram.com/chris_ashendra) 
@@ -60,6 +60,6 @@ I'm [Ashendra de Silva](https://ashendradesilva.tk/), I'm an experienced full st
 
 <div align="right">
   
-[![HitCount](http://hits.dwyl.com/ashendra04/ashendra04.svg)](http://hits.dwyl.com/ashendra04/ashendra04) ![ViewCount](https://views.whatilearened.today/views/github/ashendra04/ashendra04.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://ashendra.tk/)
+[![HitCount](http://hits.dwyl.com/ashendra04/ashendra04.svg)](http://hits.dwyl.com/ashendra04/ashendra04) ![ViewCount](https://views.whatilearened.today/views/github/ashendra04/ashendra04.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://ashendradesilva.tk/)
 
 </div>
